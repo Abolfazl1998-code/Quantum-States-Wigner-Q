@@ -1,0 +1,26 @@
+# Mathematica autosave files
+*.nb~
+*.nb#
+*.mx
+*.pf
+
+# Mathematica cache files
+*.m~
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter/Mathematica hybrid notebooks
+*.ipynb_checkpoints/
+
+# Ignore compiled CDF files
+*.cdf
+
+# Ignore data you don’t want to track
+*.dat
+*.log
+
+# Ignore backup files
+*~
