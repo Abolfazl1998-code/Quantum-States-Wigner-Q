@@ -113,16 +113,18 @@ Quantum-States-Wigner-Q/
 │   └── cat_state_alpha3_2D.png
 │
 ├── docs/
-│   ├── a_vacuum.md
-│   ├── b_coherent.md
-│   ├── c_fock1.md
-│   ├── d_fock4.md
-│   ├── e_superposition01.md
-│   ├── f_superposition0i1.md
-│   ├── g_superposition04.md
-│   ├── h_mixed01.md
-│   ├── i_mixed04.md
-│   └── j_cat_state.md
+├── 01_theoretical_foundations.md
+├── 02_mathematica_implementation.md 
+├── a_vacuum_state.md
+├── b_coherent_state.md
+├── c_single_photon_state.md
+├── d_four_photon_state.md
+├── e_superposition_0plus1.md
+├── f_superposition_0plusi1.md
+├── g_superposition_0plus4.md
+├── h_mixed_01.md
+├── i_mixed_04.md
+└── j_schrodinger_cat.md
 │
 └── README.md
 
