@@ -11,7 +11,7 @@ All states are accompanied by:
 - 2D cross-sections
 - Interpretation of classical vs. nonclassical features
 
-# States Included (a–i)
+## States Included (a–i)
 
 Full derivations for each state are available in the docs folder.
 
