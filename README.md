@@ -11,21 +11,21 @@ All states are accompanied by:
 - 2D cross-sections
 - Interpretation of classical vs. nonclassical features
 
-## States Included (a–i)
+# States Included (a–i)
 
 Full derivations for each state are available in the docs folder.
 
 | ID | State | Category | Notes |
 |----|-------|----------|-------|
-| **a** | `|0⟩` | Classical-like | Gaussian, positive W |
-| **b** | `|α₀⟩` | Classical-like | Displaced Gaussian |
-| **c** | `|1⟩` | Nonclassical | Negative W at center |
-| **d** | `|4⟩` | Strongly nonclassical | Oscillations + multiple negative regions |
-| **e** | `(|0⟩ + |1⟩)/√2` | Nonclassical | Interference fringes (Re axis) |
-| **f** | `(|0⟩ + i|1⟩)/√2` | Nonclassical | Interference shifted to Im axis |
-| **g** | `(|0⟩ + |4⟩)/√2` | Highly nonclassical | 4-fold rotational interference |
-| **h** | `(|0⟩⟨0| + |1⟩⟨1|)/2` | Classical-like | No negativities (no coherence) |
-| **i** | `(|0⟩⟨0| + |4⟩⟨4|)/2` | Mixed-nonclassical | Symmetric but still negative W |
+| **a** | `|0>` | Classical-like | Gaussian, positive W |
+| **b** | `|α0>` | Classical-like | Displaced Gaussian |
+| **c** | `|1>` | Nonclassical | Negative W at center |
+| **d** | `|4>` | Strongly nonclassical | Oscillations + multiple negative regions |
+| **e** | `(|0> + |1>)/√2` | Nonclassical | Interference fringes (Re axis) |
+| **f** | `(|0> + i|1>)/√2` | Nonclassical | Interference shifted to Im axis |
+| **g** | `(|0> + |4>)/√2` | Highly nonclassical | 4-fold rotational interference |
+| **h** | `(|0><0| + |1><1|)/2` | Classical-like | No negativities (no coherence) |
+| **i** | `(|0><0| + |4><4|)/2` | Mixed-nonclassical | Symmetric but still negative W |
 
 ## Project Goals
 
