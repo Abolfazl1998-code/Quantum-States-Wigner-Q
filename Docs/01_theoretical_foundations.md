@@ -110,4 +110,4 @@ The functions respect the uncertainty principle:
 2. Leonhardt, "Measuring the Quantum State of Light" (1997)
 3. Scully & Zubairy, "Quantum Optics" (1997)
 
-**آماده‌ای ادامه بدیم؟** 🚀
+**Next:** [Mathematica Implementation Guide](02_mathematica_implementation.md) | [Back to Documentation Home](../README.md)
