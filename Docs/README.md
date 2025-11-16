@@ -47,3 +47,4 @@ If you have questions, please open a GitHub Issue.
 
 ##  Research Context
 This documentation accompanies the research on phase space representations of quantum optical states, highlighting classical vs nonclassical behavior through Wigner and Husimi-Q functions.
+---
