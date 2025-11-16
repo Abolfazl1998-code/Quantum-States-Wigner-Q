@@ -121,10 +121,9 @@ Quantum-States-Wigner-Q/
 ├── d_four_photon_state.md
 ├── e_superposition_0plus1.md
 ├── f_superposition_0plusi1.md
-├── g_superposition_0plus4.md
-├── h_mixed_01.md
-├── i_mixed_04.md
-└── j_schrodinger_cat.md
+├── g_mixed_01.md
+├── h_mixed_04.md
+└── i_schrodinger_cat.md
 │
 └── README.md
 
