@@ -160,13 +160,13 @@ Properties:
 (Full set in `/plots`)
 
 ### Vacuum State — Wigner Function
-![vacuum](https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q/raw/main/plots/vacuum_Wigner.png)
+https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q/blob/main/Plots/vacuum_Wigner.png
 
 ### Single-Photon State — Negative Wigner
-![single photon](https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q/raw/main/plots/single_photon_n1_Wigner.png)
+https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q/blob/main/Plots/single_photon_n1_Wigner.png
 
 ### Coherent State (α=3+i) — Q Function  
-![coherent](https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q/raw/main/plots/coherent_alpha3i_Q.png)
+https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q/blob/main/Plots/coherent_alpha3i_Q.png
 
 ## How to Run
 1. Open any `.nb` file in **code/**
