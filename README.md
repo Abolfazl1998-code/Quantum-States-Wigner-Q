@@ -193,3 +193,17 @@ Requires **Mathematica 12+**
 MSc Physics (Condensed Matter) — MERC, Iran  
 Email: [amiriabolfazl1998@gmail.com](mailto:amiriabolfazl1998@gmail.com)  
 GitHub: [https://github.com/Abolfazl1998-code](https://github.com/Abolfazl1998-code)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📧 Contact
+
+Abolfazl Amiri - [amiriabolfazl1998@gmail.com](mailto:amiriabolfazl1998@gmail.com)
+
+Project Link: [https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q](https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q)
