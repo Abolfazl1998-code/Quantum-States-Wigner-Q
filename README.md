@@ -24,15 +24,15 @@ Full derivations for each state are available in the docs folder.
 
 | ID | State | Category | Notes |
 |----|-------|----------|-------|
-| a | Vacuum state | Classical-like | Gaussian, positive W |
-| b | Coherent state | Classical-like | Displaced Gaussian |
-| c | Single-photon state | Nonclassical | Negative W at center |
-| d | Four-photon state | Strongly nonclassical | Oscillations + multiple negative regions |
-| e | (0+1) superposition | Nonclassical | Interference fringes (Re axis) |
-| f | (0+i1) superposition | Nonclassical | Interference shifted to Im axis |
-| g | (0+4) superposition | Highly nonclassical | 4-fold rotational interference |
-| h | Mixed state (0 & 1) | Classical-like | No negativities (no coherence) |
-| i | Mixed state (0 & 4) | Mixed-nonclassical | Symmetric but still negative W |
+| **a** | Vacuum State | Classical-like | Gaussian, positive W |
+| **b** | Coherent State | Classical-like | Displaced Gaussian |
+| **c** | Single-Photon State | Nonclassical | Negative W at center |
+| **d** | Four-Photon State | Strongly nonclassical | Oscillations + multiple negative regions |
+| **e** | (0+1) Superposition | Nonclassical | Interference fringes (Re axis) |
+| **f** | (0+i1) Superposition | Nonclassical | Interference shifted to Im axis |
+| **g** | Mixed State (0 & 4) | Mixed-nonclassical | Symmetric but still negative W |
+| **h** | Mixed State (0 & 1) | Classical-like | No negativities (no coherence) |
+| **i** | Schrödinger Cat State | Highly nonclassical | Macroscopic quantum interference |
 
 ## Project Goals
 
