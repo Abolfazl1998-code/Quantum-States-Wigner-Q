@@ -13,7 +13,7 @@ All states are accompanied by:
 
 ## States Included (a–i)
 
-Full derivations for each state are available in the **docs/** folder.
+Full derivations for each state are available in the docs folder.
 
 | ID | State | Category | Notes |
 |----|-------|----------|-------|
