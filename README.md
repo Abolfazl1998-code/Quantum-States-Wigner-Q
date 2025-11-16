@@ -3,8 +3,9 @@
 ![Mathematica](https://img.shields.io/badge/Mathematica-12.0+-DD1100)
 ![Quantum Optics](https://img.shields.io/badge/Field-Quantum%20Optics-0066CC)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717)
+![Documentation](https://img.shields.io/badge/Docs-Comprehensive-blue)
 ![Research](https://img.shields.io/badge/Type-Research%20Project-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This repository provides theoretical derivations, Mathematica implementations, and graphical visualizations of Wigner and Husimi-Q quasi-probability distributions for nine fundamental quantum optical states. The project highlights **classical vs. nonclassical behavior**, **Wigner negativity**, **interference structure**, and **symmetry patterns** in phase space.
 
