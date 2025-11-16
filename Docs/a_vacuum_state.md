@@ -161,3 +161,8 @@ The vacuum state is crucial for:
 - Serves as building block for more complex states via displacement operator
 
 ---
+
+**Next State:** [Coherent State](b_coherent_state.md)  
+**Previous:** [Mathematica Implementation Guide](02_mathematica_implementation.md)  
+**Back to:** [Documentation Home](../README.md)
+```
