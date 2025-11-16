@@ -140,3 +140,8 @@ Plot[{WignerFunction[x, 0], QFunction[x, 0]}, {x, -3, 3},
 (* 5. Physical interpretation *)
 Print["Analysis: This state shows..."]
 ```
+
+---
+
+**Next:** [Vacuum State Implementation](a_vacuum_state.md) | [Back to Theoretical Foundations](01_theoretical_foundations.md)
+```
