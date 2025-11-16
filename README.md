@@ -207,3 +207,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Abolfazl Amiri - [amiriabolfazl1998@gmail.com](mailto:amiriabolfazl1998@gmail.com)
 
 Project Link: [https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q](https://github.com/Abolfazl1998-code/Quantum-States-Wigner-Q)
+
+## 🙏 Acknowledgments
+
+- Quantum Optics research community
+- Mathematica for computational support
+- GitHub for project hosting
