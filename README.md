@@ -69,24 +69,48 @@ Plots generated with **Plot3D**, **LaguerreL**, and custom Mathematica functions
 
 ## Folder Structure
 
-```
+
 Quantum-States-Wigner-Q/
 │
-├── code/
-│   ├── vacuum.nb
-│   ├── coherent.nb
-│   ├── fock1.nb
-│   ├── fock4.nb
-│   ├── superposition_01.nb
-│   ├── superposition_0i1.nb
-│   ├── superposition_04.nb
+├── Mathematica-Code/
+│   ├── vacuum_state.nb
+│   ├── single_photon_n1.nb
+│   ├── four_photon_n4.nb
+│   ├── coherent_state_alpha3i.nb
+│   ├── superposition_0plus1.nb
+│   ├── superposition_0plusi1.nb
 │   ├── mixed_01.nb
-│   ├── mixed_04.nb
+│   ├── mixed_alpha3.nb
+│   └── cat_state_alpha3.nb
 │
 ├── plots/
-│   ├── vacuum_Q_3D.png
-│   ├── vacuum_W_3D.png
-│   ├── ...
+│   ├── vacuum_Wigner.png
+│   ├── vacuum_Q.png
+│   ├── vacuum_2D.png
+│   ├── single_photon_n1_Wigner.png
+│   ├── single_photon_n1_Q.png
+│   ├── single_photon_n1_2D.png
+│   ├── four_photon_n4_Wigner.png
+│   ├── four_photon_n4_Q.png
+│   ├── four_photon_n4_2D.png
+│   ├── coherent_alpha3i_Wigner.png
+│   ├── coherent_alpha3i_Q.png
+│   ├── coherent_alpha3i_2D.png
+│   ├── superposition_0plus1_Wigner.png
+│   ├── superposition_0plus1_Q.png
+│   ├── superposition_0plus1_2D.png
+│   ├── superposition_0plusi1_Wigner.png
+│   ├── superposition_0plusi1_Q.png
+│   ├── superposition_0plusi1_2D.png
+│   ├── mixed_01_Wigner.png
+│   ├── mixed_01_Q.png
+│   ├── mixed_01_2D.png
+│   ├── mixed_alpha3_Wigner.png
+│   ├── mixed_alpha3_Q.png
+│   ├── mixed_alpha3_2D.png
+│   ├── cat_state_alpha3_Wigner.png
+│   ├── cat_state_alpha3_Q.png
+│   └── cat_state_alpha3_2D.png
 │
 ├── docs/
 │   ├── a_vacuum.md
@@ -98,9 +122,9 @@ Quantum-States-Wigner-Q/
 │   ├── g_superposition04.md
 │   ├── h_mixed01.md
 │   ├── i_mixed04.md
+│   └── j_cat_state.md
 │
 └── README.md
-```
 
 ## Physical Summary of Results
 
@@ -135,14 +159,14 @@ Properties:
 ## Example Plots
 (Full set in `/plots`)
 
-### Vacuum — Wigner
-![vacuum](plots/vacuum_W_3D.png)
+### Vacuum State — Wigner Function
+https://plots/vacuum_Wigner.png
 
-### Single Photon — Negative Wigner
-![fock1](plots/fock1_W_3D.png)
+### Single-Photon State — Negative Wigner
+https://plots/single_photon_n1_Wigner.png
 
-### Coherent — Q Function
-![coherent](plots/coherent_Q_3D.png)
+### Coherent State (α=3+i) — Q Function
+https://plots/coherent_alpha3i_Q.png
 
 ## How to Run
 1. Open any `.nb` file in **code/**
