@@ -111,3 +111,4 @@ The functions respect the uncertainty principle:
 3. Scully & Zubairy, "Quantum Optics" (1997)
 
 **Next:** [Mathematica Implementation Guide](02_mathematica_implementation.md) | [Back to Documentation Home](../README.md)
+```
